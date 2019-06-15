@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "VARIABLES IN RUBY"
-date:       2019-06-15 19:16:55 +0000
+title:      "Variables in RUBY"
+date:       2019-06-15 15:16:56 -0400
 permalink:  variables_in_ruby
 ---
 
