@@ -11,7 +11,6 @@ Creating a variable, which is also called ‘declaring a variable’, is simply 
 
 It is very important to give appropriate names to variables so it is easier to understand what the code is about.  
 For example, if there is a field where we need to use store a zip code, it only makes sense to call the variable ‘zip_code’ and not ‘x’. 
-
  
 To declare a variable in Ruby, we need an appropriate variable name, equal sign and data that represents the value which is assigned to the variable. 
 
