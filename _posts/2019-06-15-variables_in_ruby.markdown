@@ -1,12 +1,11 @@
 ---
 layout: post
-title:      "Variables in RUBY"
+title:      "Variables in Ruby "
 date:       2019-06-15 15:16:56 -0400
 permalink:  variables_in_ruby
 ---
 
-
-   Variables are one of the basic steps in many programming languages including Ruby and are used to store values in particular names. 
+Variables are one of the basic steps in many programming languages including Ruby and are used to store values in particular names. 
 Creating a variable, which is also called ‘declaring a variable’, is simply assigning an appropriate name to a value. Essentially, we store value in a particular name so we can reference it later. 
 
 It is very important to give appropriate names to variables so it is easier to understand what the code is about.  
