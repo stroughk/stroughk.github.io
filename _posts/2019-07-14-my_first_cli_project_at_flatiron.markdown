@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First CLI Project at Flatiron"
-date:       2019-07-14 19:41:27 +0000
+date:       2019-07-14 15:41:28 -0400
 permalink:  my_first_cli_project_at_flatiron
 ---
 
