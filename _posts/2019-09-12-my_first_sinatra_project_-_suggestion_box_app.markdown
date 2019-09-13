@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "My First Sinatra Project - Suggestion Box App"
+title:      "My First Sinatra Project Suggestion Box App"
 date:       2019-09-12 18:59:56 -0400
 permalink:  my_first_sinatra_project_-_suggestion_box_app
 ---
