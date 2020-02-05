@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "JS and Rails Project: What I learned About Classes in Both Languages"
+title:      "JS and Rails Project: What I Learned About Classes in Both Languages"
 date:       2020-01-26 17:37:08 -0500
 permalink:  studies_javascript_and_rails_project
 ---
