@@ -1,0 +1,12 @@
+---
+layout: post
+title:      "A Redux Analogy"
+date:       2020-03-22 17:34:37 +0000
+permalink:  a_redux_analogy
+---
+
+
+One of my biggest challenges in programming thus far has been truly understanding how Redux works. It is like nothing I’ve learned so far in programming. The different concepts such as action creator, dispatch, reducers, and store have been a bit overwhelming. I remembered the time when I first started learning the MVC structure. One analogy we learned about was a concept of a restaurant with a server, chef, and customers. This helped me to clear out some of the confusion about MVC. As I was learning Redux, I realized I needed to connect what I was learning with a similar analogy to somewhat grasp the idea of why and how we’re using this library.  
+
+So, I imagine that building an application with Redux is like building/operating a restaurant. The ‘Action Creator’ is like a customer placing an order. The ‘Action’ contains information that describes what the customer wants to order or change on the ‘order’ (data) in the restaurant. An Action Creator is just a plain function that returns a JavaScript object, which is the ‘Action’.  The Action (order form) itself has a ‘type’ and a ‘payload’. The ‘type’ describes what the customer wants to “order” or “change on the order”. The “payload” describes the content of that “change”. Therefore, the purpose of the Action Creator is to describe what changes we want to make to the data or “meal” in this analogy. After the customer fills out the ‘order form’, it is given to the waiter so the waiter can give it to the chefs. This would be the purpose of the ‘dispatch’ function. The dispatch (waiter) will take this order the customer filled out and pass it on to all the chefs who work in the kitchen. This would be what Reducers are all about. They are like the chefs who work in the kitchen. They are responsible on taking the ‘order’ in and complete whatever it was described to be completed. The reducer(s) will make the order or changes to the order that was given to them, and return a new meal to the customer. The chefs in the kitchen need to look at the order form and do exactly as it was described on the order form based on the ‘type’.  When the chefs complete the order, they put the meal on top of the counter which is the ‘Store’. The state is contained inside the ‘Store’. In short, Redux is a very practical library to manage the state of a web application built in any Java Script framework and not limited to React only.    
+
